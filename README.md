@@ -4,7 +4,7 @@
   <img src="https://google.github.io/dopamine/images/dopamine_logo.png"><br><br>
 </div>
 
-A dopamina é uma estrutura de pesquisa para prototipagem rápida de algoritmos de aprendizado por reforço. Seu objetivo é suprir a necessidade de uma base de código pequena e fácil de grunhir, na qual os usuários possam experimentar livremente idéias selvagens (pesquisa especulativa).
+A dopamina é uma estrutura de pesquisa para prototipagem rápida de algoritmos de aprendizado por reforço. Seu objetivo é suprir a necessidade de uma base de código pequena e intuitiva, na qual os usuários possam experimentar livremente idéias selvagens (pesquisa especulativa).
 
 Nossos princípios de design são:
 
