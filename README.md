@@ -4,17 +4,13 @@
   <img src="https://google.github.io/dopamine/images/dopamine_logo.png"><br><br>
 </div>
 
-Dopamine is a research framework for fast prototyping of reinforcement learning
-algorithms. It aims to fill the need for a small, easily grokked codebase in
-which users can freely experiment with wild ideas (speculative research).
+A dopamina é uma estrutura de pesquisa para prototipagem rápida de algoritmos de aprendizado por reforço. Seu objetivo é suprir a necessidade de uma base de código pequena e fácil de grunhir, na qual os usuários possam experimentar livremente idéias selvagens (pesquisa especulativa).
 
-Our design principles are:
+Nossos princípios de design são:
 
-* _Easy experimentation_: Make it easy for new users to run benchmark
-                          experiments.
-* _Flexible development_: Make it easy for new users to try out research ideas.
-* _Compact and reliable_: Provide implementations for a few, battle-tested
-                          algorithms.
+* _Facilidade de experimentação_: Facilite a execução de benchmarks para experimentos de novos usuários 
+* _Flexibilize o desenvolvimento _: Facilite para novos usuários experimentar ideias de pesquisa.
+* _Compacto e confiável_: Forneça implementações para alguns algoritmos battle-tested (experimentados).
 * _Reproducible_: Facilitate reproducibility in results. In particular, our
                   setup follows the recommendations given by
                   [Machado et al. (2018)][machado].
